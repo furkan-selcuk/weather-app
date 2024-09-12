@@ -7,9 +7,9 @@ This application provides real-time weather updates for your location while offe
 
 # Key Features:<br>
 
-&nbsp;&nbsp;&nbsp;Real-time weather updates: View live data including temperature, wind speed, precipitation, and humidity.<br><br>
-&nbsp;&nbsp;&nbsp;Outfit suggestions: Get clothing combinations tailored to the current weather, making it easier to prepare for your day.<br><br>
-&nbsp;&nbsp;&nbsp;User-friendly interface: The modern, clean design lets you quickly see weather details and outfit recommendations.<br><br>
-&nbsp;&nbsp;&nbsp;Additional tips: Provides extra advice, such as wearing layers when it's cold or donning a hat on particularly hot days.<br><br>
-&nbsp;&nbsp;&nbsp;Dynamic outfit panel: Open and close the outfit suggestion panel by clicking a button that smoothly slides the recommendations into view.<br><br>
+&nbsp;&nbsp;&nbsp;<b>Real-time weather updates:</b> View live data including temperature, wind speed, precipitation, and humidity.<br><br>
+&nbsp;&nbsp;&nbsp;<b>Outfit suggestions</b>: Get clothing combinations tailored to the current weather, making it easier to prepare for your day.<br><br>
+&nbsp;&nbsp;&nbsp;<b>User-friendly interface</b>: The modern, clean design lets you quickly see weather details and outfit recommendations.<br><br>
+&nbsp;&nbsp;&nbsp;<b>Additional tips</b>: Provides extra advice, such as wearing layers when it's cold or donning a hat on particularly hot days.<br><br>
+&nbsp;&nbsp;&nbsp;<b>Dynamic outfit panel</b>: Open and close the outfit suggestion panel by clicking a button that smoothly slides the recommendations into view.<br><br>
 This app is designed to make your daily routine more comfortable and practical. Whether it's hot, cold, or somewhere in between, you'll always know exactly what to wear!
