@@ -61,7 +61,7 @@ function App() {
 
     try {
       const response = await axios.get(
-        `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=febeffc71dcc54ae81dc3f8164165fae&units=metric`
+        `API KEY`
       );
       setWeatherData(response.data);
       const wheatherinfo = { clear, cloud, drizzle, rain, snow };
